@@ -20,18 +20,18 @@ Contents
 
 This repository consists of
 
--   [CodeBook.md]("https://github.com/nchin212/Coursera-Getting-and-Cleaning-Data-Assignment/blob/master/CodeBook.md") - A code book that describes the variables, the
+-   [CodeBook.md](https://github.com/nchin212/Coursera-Getting-and-Cleaning-Data-Assignment/blob/master/CodeBook.md) - A code book that describes the variables, the
     data, and any transformations or work that are performed to clean up
     the data
 
--   [README.md]("https://github.com/nchin212/Coursera-Getting-and-Cleaning-Data-Assignment/blob/master/README.md") - Explains how all of the scripts work and how they
+-   [README.md](https://github.com/nchin212/Coursera-Getting-and-Cleaning-Data-Assignment/blob/master/README.md) - Explains how all of the scripts work and how they
     are connected
 
--   [run\_analysis.R]("https://github.com/nchin212/Coursera-Getting-and-Cleaning-Data-Assignment/blob/master/run\_analysis.R") - Contains script to transform the raw data into
+-   [run\_analysis.R](https://github.com/nchin212/Coursera-Getting-and-Cleaning-Data-Assignment/blob/master/run\_analysis.R) - Contains script to transform the raw data into
     the tidy data
 
--   [tidy\_dataset.txt]("https://github.com/nchin212/Coursera-Getting-and-Cleaning-Data-Assignment/blob/master/tidy\_dataset.txt") - Contains the tidy dataset created from
-    [run\_analysis.R]("https://github.com/nchin212/Coursera-Getting-and-Cleaning-Data-Assignment/blob/master/run\_analysis.R")
+-   [tidy\_dataset.txt](https://github.com/nchin212/Coursera-Getting-and-Cleaning-Data-Assignment/blob/master/tidy\_dataset.txt) - Contains the tidy dataset created from
+    [run\_analysis.R](https://github.com/nchin212/Coursera-Getting-and-Cleaning-Data-Assignment/blob/master/run\_analysis.R)
 
 Packages Required
 -----------------
