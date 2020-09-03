@@ -1,5 +1,3 @@
-setwd("/Users/admin/Desktop")
-
 # Load libraries
 library(plyr)
 library(reshape2)
