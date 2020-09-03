@@ -31,4 +31,4 @@ data:
     set with the average of each variable for each activity and each
     subject
 
-More details can be found in [run\_analysis.R](https://github.com/nchin212/Coursera-Getting-and-Cleaning-Data-Assignment/edit/master/run\_analysis.R)
+More details can be found in [run\_analysis.R](https://github.com/nchin212/Coursera-Getting-and-Cleaning-Data-Assignment/blob/master/run_analysis.R)
